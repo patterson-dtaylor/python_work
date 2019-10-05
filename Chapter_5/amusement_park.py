@@ -1,5 +1,5 @@
 # 10/5/19: Using if-elif-else Statements.
-age = 66
+age = 17
 # More concise way of code.
 if age <= 4:
     price = 0
